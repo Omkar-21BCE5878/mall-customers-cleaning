@@ -1,6 +1,4 @@
-<<<<<<< HEAD
-
-# 🧼 Mall Customers Data Cleaning – Task 1
+# 🧼 Task 1: Data Cleaning and Preprocessing
 
 This repository contains the data cleaning and preprocessing steps applied to the **Mall_Customers.csv** dataset using **Python (Pandas)**.
 
@@ -19,7 +17,7 @@ To prepare a clean and structured dataset ready for analysis by handling:
 
 - **Language**: Python 3
 - **Library**: pandas
-- **Environment**: Jupyter Notebook / VS Code
+- **Environment**: Google Colab
 - **Dataset**: `Mall_Customers.csv` (200 customer records)
 
 ---
@@ -51,7 +49,6 @@ To prepare a clean and structured dataset ready for analysis by handling:
 | `Mall_Customers_Cleaned.csv` | Cleaned and preprocessed version            |
 | `mall_customers_cleaning.py` | Python script containing all processing steps |
 | `README.md`                  | Documentation for the task                  |
-| `screenshots/` *(optional)*  | Screenshots showing steps or outputs        |
 
 ---
 
@@ -82,4 +79,4 @@ Part of a structured data pipeline initiative.
 =======
 # mall-customers-cleaning
 Cleaning and preprocessing task using Pandas
->>>>>>> 3468b74f8d52032fc4d37fe1f564ff1cba732cfc
+
